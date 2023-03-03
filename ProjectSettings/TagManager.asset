@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup Text
+  - Name Text
+  - Game Manager
+  - VCam
+  - Stored Settings
+  - Input Changer
+  - Save System
+  - Moving Platform
+  - Dialogue Background
+  - Moveable Block
+  - Cant Grapple
+  - Global Light
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CollWithPlayer
+  - Water
+  - UI
+  - DontCollideWithEnemy
+  - Hook
+  - Ground
+  - Background
+  - Foreground
+  - Player
+  - Item Icons
+  - No Collisions
+  - Enemy
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2162711971
+    locked: 0
+  - name: No Torches
+    uniqueID: 3030434331
+    locked: 0
+  - name: 
+    uniqueID: 2834643951
+    locked: 0
+  - name: Midground
+    uniqueID: 2915941047
+    locked: 0
+  - name: Foreground
+    uniqueID: 2054189875
+    locked: 0
+  - name: Enemy
+    uniqueID: 519575817
+    locked: 0
+  - name: Player
+    uniqueID: 556437925
+    locked: 0
+  - name: Items
+    uniqueID: 505778841
+    locked: 0
+  - name: UI
+    uniqueID: 1921671683
+    locked: 0
